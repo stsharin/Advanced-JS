@@ -6,7 +6,7 @@ function sum(first, second){
         const mood = 'happy';
     }
     // console.log(mood); 
-    return  result;
+    return result;
 }
 const output = sum(3, 7);
 // console.log(bonus);
